@@ -1,0 +1,284 @@
+.header {
+  position: fixed;
+  height:65px;
+  background:#fff;
+  width: 100%;
+  top: 0;
+}
+.body1 {
+  text-align: center;
+  background-color: #e8ecee;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: #26282b;
+  min-height: 765px;
+  margin-top: 60px;
+}
+.body2 {
+    margin-top: -28px;
+    background: linear-gradient( #e8ecee, #f4f5f7);
+    min-height: 15px;
+}
+.body3 {
+    text-align: center;
+    background-color: #f4f5f7;
+    min-height: 400px;
+    margin-top: -45px;
+}
+.t3 {
+    text-align: center;
+    font-size: 45px;
+    color: #26282b;
+}
+.footer {
+  background-color: #26282b;
+  color: white;
+  height: 178px;
+  bottom: 0;
+}
+
+.voiture {
+  animation: App-logo-spin infinite 20s linear;
+  height: 20vmin;
+  pointer-events: none;
+  margin-top: 150px;
+}
+
+.logo {
+  height: 65px;
+  margin-left: 340px;
+  margin-top: 2px;
+}
+
+.titre {
+  margin-top: -49px;
+  margin-left: 413px;
+  color: #979a9c;
+  font-weight: 600;
+  font-size: 18px;
+}
+.titre2 {
+  margin-top: -44px;
+  margin-left: 892px;
+  color: #26282b;
+  font-weight: 600;
+  font-size: 18px;
+}
+.titre3 {
+  font-size: 28px;
+}
+.text1 {
+  font-size: 28px;
+  margin-top: -12px;
+  color: #979a9c;
+}
+.text2 {
+  font-size: 50px;
+  color: #26282b;
+}
+
+.text3 {
+  color: #26282b;
+}
+
+.a1 {
+  margin-left: 180px;
+  padding: 10px;
+}
+.a2 {
+  margin-left: 150px;
+}
+.a3 {
+  margin-left: 172px;
+  padding: 10px;
+}
+.a4 {
+  margin-left: 150px;
+}
+.leaderboard {
+    margin-left: 200px;
+    margin-right: 200px;
+    min-height: 700px;
+    display: block;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+    margin-bottom: 100px;
+}
+.leaderboard2 {
+    width: 100%;
+}
+.th {
+    font-size: 10px;
+}
+.partimg {
+    height: 70px;
+    border-radius: 50%;
+    vertical-align: -25px;
+}
+.nom {
+    margin-left: 30px;
+}
+
+.Menu {
+    width: 1200px;
+    margin: auto;
+    min-height: 700px;
+    margin-bottom: 100px;
+}
+.Menu1 {
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+    width: 350px;
+    height:250px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+    background-color: white;
+}
+.image1 {
+    border-radius: 100%;
+    height: 150px;
+    width: 125px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.image2 {
+    margin-top: 50px;
+    border-radius: 100%;
+    height: 150px;
+    width: 125px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.image3 {
+    margin-top: 50px;
+    border-radius: 100%;
+    height: 150px;
+    width: 125px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.image4 {
+    margin-top: 50px;
+    height: 120px;
+    width: 120px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-bottom: 50px;
+}
+.image5 {
+    height: 72px;
+    width: 120px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-bottom: 72px;
+}
+.dev1 {
+    text-align: center;
+}
+.dev2 {
+    text-align: center;
+}
+.dev3 {
+    text-align: center;
+}
+.dev4 {
+    text-align: center;
+}
+.log {
+    border-style: solid;
+    margin-top: -49px;
+    position: absolute;
+    margin-left: 1230px;
+    border-radius: 6px;
+    padding: 10px 18px;
+    background-color: #26282b;
+    border-color: #26282b;
+    color: white;
+}
+.log:hover {
+    background-color: white;
+    color: #26282b;
+}
+.reg {
+    border-style: solid;
+    margin-top: -49px;
+    position: absolute;
+    margin-left: 1120px;
+    border-radius: 6px;
+    padding: 10px 18px;
+    background-color: #26282b;
+    border-color: #26282b;
+    color: white;
+}
+.reg:hover {
+    background-color: white;
+    color: #26282b;
+}
+.buttonadd {
+    border-radius: 20px;
+    padding: 10px 100px;
+    background-color: #26282b;
+    border-color: #26282b;
+    color: white;
+}
+.buttonadd:hover {
+    border-radius: 20px;
+    padding: 10px 100px;
+    background-color: white;
+    border-color: white;
+    color: #26282b;
+}
+.R1 {
+    margin-top: 5px;
+}
+
+.R2 {
+    font-size: 18px;
+    margin-left: 60px;
+    margin-top: -8px;
+    float: left;
+}
+.R3 {
+    margin-top: -5px;
+    font-size: 18px;
+    float: left;
+    margin-left: -170px;
+}
+.R4 {
+    margin-top: -5px;
+    font-size: 18px;
+    float: left;
+    margin-left: -35px;
+}
+.R5 {
+    font-size: 14px;
+    margin-top: -15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.R6 {
+    margin-top: -20px;
+    font-size: 18px;
+}
+input {
+    width:280px;
+    height: 25px;
+    border-radius: 0px 20px;
+    border: 1px solid black;
+    text-align: center;
+}
+table, th, td {
+    height: 100px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
